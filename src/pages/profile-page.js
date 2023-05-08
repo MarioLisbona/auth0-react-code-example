@@ -14,7 +14,7 @@ export const ProfilePage = () => {
     <PageLayout>
       <div className="content-layout">
         <h1 id="page-title" className="content__title">
-          Profile Page
+          Your Profile Page
         </h1>
         <div className="content__body">
           <p id="page-description">
